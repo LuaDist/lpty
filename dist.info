@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "lpty"
+version = "1.0"
+
+desc = "A simple facility for lua to control other programs via PTYs."
+author = "Gunnar Zötl"
+license = "MIT/X11"
+url = "http://www.tset.de/lpty/"
+maintainer = "Peter Drahoš"
+
+depends = {
+	"lua >= 5.1"
+}
